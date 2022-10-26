@@ -14,6 +14,8 @@ const movement = [
     {answer: [1,5,9]},
 ]
 
+// checking
+
 let counter = 0;
 let playerOneState = [];
 let playerTwoState = [];
